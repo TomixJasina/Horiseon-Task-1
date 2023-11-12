@@ -6,10 +6,10 @@ The purpose of this project was to test my skills and knowledge gained during fi
 
 I had to meet the following criteria:
 
--Use sematic HTML elements and use them in correct order
--Add 'alt' attributes to imges and icon
--Make sure that headin attributes fall in sequential order
--Give a descriptive title to webpage
+*Use sematic HTML elements and use them in correct order
+*Add 'alt' attributes to imges and icon
+*Make sure that headin attributes fall in sequential order
+*Give a descriptive title to webpage
 
 ## Installation
 
