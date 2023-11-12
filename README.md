@@ -5,11 +5,10 @@
 The purpose of this project was to test my skills and knowledge gained during first week of EdX bootcamp. I had to change code to be more clear adn organized so webpage will load faster in the browser.
 
 I had to meet the following criteria:
-
-*Use sematic HTML elements and use them in correct order
-*Add 'alt' attributes to imges and icon
-*Make sure that headin attributes fall in sequential order
-*Give a descriptive title to webpage
+- Use sematic HTML elements and use them in correct order
+- Add 'alt' attributes to imges and icon
+- Make sure that headin attributes fall in sequential order
+- Give a descriptive title to webpage 
 
 ## Installation
 
