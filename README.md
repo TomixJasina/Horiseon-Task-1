@@ -22,7 +22,7 @@ Just dowload files from repo.
 
 ## Credits
 
-Many thanks to all Istructors, TA and especially to Chris Baird who helped me understood HTML sematics and GitHub workflow during tutoring session.
+Many thanks to all Istructors, TA and especially to Chris Baird who helped me to understand more about HTML sematics and GitHub workflow during tutoring session.
 
 ## License
 
