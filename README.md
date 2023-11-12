@@ -26,4 +26,4 @@ Many thanks to all Istructors, TA and especially to Chris Baird who helped me to
 
 ## License
 
-Please refer to the LICENSE in the repo.
+Please check the LICENSE file in repo.
